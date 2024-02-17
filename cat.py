@@ -9,6 +9,7 @@ class Cat():
 
 #Create objects here
 #These should NOT be indented inside the class
+#push tests LR
 stella = Cat()
 stella.name = "Stella"
 stella.age = 7
