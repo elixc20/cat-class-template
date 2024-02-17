@@ -5,7 +5,7 @@ class Cat():
         self.age = 0
 
     def speak(self):
-        print("meow")
+        return("meow")
 
 #Create objects here
 #These should NOT be indented inside the class
